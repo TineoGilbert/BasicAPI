@@ -18,6 +18,6 @@ Basic API created with Laravel to perform the Create and Obtain information proc
 - POSTMAN :white_check_mark:
 
 
-![](img/api.png)
+![](/api.png)
 
 ![](public/img/api.png)
