@@ -6,3 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+# Creación de API Básica / Basic API creation
+
+API Básica creada con Laravel para realizar los procesos de Crear y Obtener información. La creación de la información se realiza desde la herramienta de POSTMAN y es envíada a la Base de Datos MySql y la Obtención de la información se obtiene desde la (DB) hacía POSTMAN
+
+## Heramientas Utilizadas
+- Laravel
+- POSTMAN
+
+
+![](public/img/api.png)
