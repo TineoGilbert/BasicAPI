@@ -14,8 +14,8 @@ API Básica creada con Laravel para realizar los procesos de Crear y Obtener inf
 Basic API created with Laravel to perform the Create and Obtain information processes. The creation of the information is done from the POSTMAN tool and is sent to the MySql Database and the Obtaining of the information is obtained from the (DB) to POSTMAN.
 
 ## Heramientas Utilizadas / Tools Used
-- Laravel
-- POSTMAN
+- Laravel :o:
+- POSTMAN :white_check_mark:
 
 
 ![](public/img/api.png)
